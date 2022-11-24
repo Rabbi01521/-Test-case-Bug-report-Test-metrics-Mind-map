@@ -70,7 +70,7 @@ Some of the samples of the Bug Report.
 
 ### Mind Map
 
-A partial Mind Map for Rokomari.
+A partial Mind Map for Ultimateorganiclife.com.
 
 <p align="center">
   <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Ultimate%20Organic%20Life_main.png" />
