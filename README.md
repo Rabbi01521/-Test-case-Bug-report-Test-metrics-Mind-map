@@ -21,7 +21,7 @@ The task are done for user Management & product Management features for the ulti
 
 The Summary of all the tasks done for all the 2 websites are given below with a table.
 
-| ultimateorgamiclife.com |      Rokomari.com |
+| ultimateorgamiclife.com |     jadurjini.com |
 | :---------------------- | ----------------: |
 | Test Case Summary       | Test Case Summary |
 | Test Case (95)          |    Test Case (11) |
@@ -44,8 +44,8 @@ The Summary of all the tasks done for all the 2 websites are given below with a 
 
 Some of the samples of the Test Cases.
 
-<!-- <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/Rokomari.com/Test%20cases.png" />
+<p align="center">
+  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Test_Case.PNG" />
 </p>
 
 ### Bug Report
@@ -53,19 +53,19 @@ Some of the samples of the Test Cases.
 Some of the samples of the Bug Report.
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/16trplspgOrDkgX6jmPTcvP5b0dT7K211/view?usp=sharing" />
+  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Bug_Report.PNG" />
 </p>
 
 ### Test Case Report
 
 <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/Rokomari.com/summary%20rokomari.png" />
+  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Test_Report.PNG" />
 </p>
 
 ### Test Metrics
 
 <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/Rokomari.com/test%20metrics.png" />
+  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Test_Matrics.PNG" />
 </p>
 
 ### Mind Map
@@ -73,5 +73,5 @@ Some of the samples of the Bug Report.
 A partial Mind Map for Rokomari.
 
 <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/Rokomari.com/Mind%20map.png" />
-</p> -->
+  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Ultimate%20Organic%20Life_main.png" />
+</p>
