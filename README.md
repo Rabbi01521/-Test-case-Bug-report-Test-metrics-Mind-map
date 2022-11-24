@@ -2,7 +2,7 @@
 
 - [Introduction](https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map#introduction)
 - [Summary](https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map#summary)
-- [Test Case Works for Ultimateorganiclife.com](https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map#Test-Case-Works-for-Ultimateorganiclife.com)
+- [Test Case Works for Ultimateorganiclife.com](https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map#Test-Case-Works-for-Ultimateorganiclife)
   - [Test Cases](https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map#Test-Cases)
   - [Bug Report](https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map#Bug-Report)
   - [Test Case Report](https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map#Test-Case-Report)
@@ -38,7 +38,7 @@ The Summary of all the tasks done for all the 2 websites are given below with a 
 | Test metrics      |   Test metrics    |      Test metrics |
 |                   |     Mind map      |                   | -->
 
-# Test Case Works for Ultimateorganiclife.com
+# Test Case Works for Ultimateorganiclife
 
 ### Test Cases
 
